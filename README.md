@@ -1,5 +1,5 @@
 # webpage_HTML
-# 股市資料分析與 HTML 報告生成 (Stock Market Analysis with Python & HTML)
+# 股市資料分析 (Stock Market Analysis with Python & HTML)
 
 使用 **Python** 進行股市資料的爬取與分析，並將結果輸出成 **HTML 報告**，方便快速檢視市場走勢與數據視覺化。
 
